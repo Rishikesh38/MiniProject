@@ -25,3 +25,17 @@ SWOT Analysis
 ===
 ![](https://github.com/Rishikesh38/MiniProject/blob/main/SWOTFORMINI.jpg)
 
+4W's and 1H
+===
+Who:
+- The Program can be used by any  user who wants to play the game.
+What:
+- It is a Rock, Paper, Scissors Game.
+Where:
+- The program can be run on any basic computer that most users have these days.
+When:
+- The program can be used when the user wants to play the game.
+How;
+- After opening the program the user will be asked to choose a gesture and the game starts.
+
+
