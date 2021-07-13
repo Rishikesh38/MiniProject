@@ -23,5 +23,5 @@ Defining Our System
 
 SWOT Analysis
 ===
-
+![](https://github.com/Rishikesh38/MiniProject/blob/main/SWOTFORMINI.jpg)
 
