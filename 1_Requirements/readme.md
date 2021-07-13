@@ -17,4 +17,4 @@ Defining Our System
 - S is Scissors.
 - P is Paper.
 - And the user need to compete with a random generator to win.
-- 
+
