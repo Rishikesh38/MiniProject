@@ -20,4 +20,4 @@ jobs:
     - name: make run
       run: |
         make run -C 3_Implementation/
-        valgrind ./3_Implementation/build/Main.c
+        valgrind ./3_Implementation/Main.c
